@@ -1,1 +1,1 @@
-Execute a simple `ls` command: `ls`{{execute}}
+Execute a simple "ls" command: `ls`{{execute}}
